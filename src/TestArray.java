@@ -47,7 +47,7 @@ public class TestArray {
             for (int arrColumn : arrRow) { //looping through each sub-array
                 System.out.print(arrColumn + " ");
             }
-            System.out.println(".");
+            System.out.println();
         }
     }
 }
